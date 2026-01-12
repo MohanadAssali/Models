@@ -1,4 +1,5 @@
-Financial Modelling and Valuation of AVGO (Broadcom Inc.)
+Financial Analysis and Valuation of Broadcom Inc. (AVGO) 📊🚀
+
 This repository contains a project with: 
 Excel Side: comprehensive 3 income statement, DCF model, Scenario & Sensitivity Analysis, Comps Analysis, Research Equity Report and Investment Memo 
 Python/Coding Side: Visulation of Key charts/Data used in the analysis, including Moving average candlestick charts and Comparsion heat map
