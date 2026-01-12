@@ -10,6 +10,7 @@ A comprehensive financial valuation of **Broadcom Inc. (AVGO)** to determine its
 * **DCF Model:** Discounted Cash Flow projections and Terminal Value estimation (Exit Multiple & Perpetuity Growth methods).
 * **Comparative Analysis (CCA):** Relative valuation benchmarking AVGO against industry peers.
 * **Sensitivity & Scenario Analysis:** Stress-testing valuation outcomes against changes in WACC and growth rates.
+ * **Equity Research Report Also Available**
 ---
 ##  Python Scripts
 * **Data Automation** 
