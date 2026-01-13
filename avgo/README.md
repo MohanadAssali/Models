@@ -5,12 +5,12 @@ A comprehensive financial valuation of **Broadcom Inc. (AVGO)** to determine its
 ---
 ##  Core Project Files
 
-* **Capital Structure:** Analysis of AVGO’s debt profile, Market Cap (MC), and Enterprise Value (EV).
-* **Financial Statements:** Comprehensive 3-Statement (Income Statement, Balance Sheet, Cash Flow) historical and projected analysis.
-* **DCF Model:** Discounted Cash Flow projections and Terminal Value estimation (Exit Multiple & Perpetuity Growth methods).
-* **Comparative Analysis (CCA):** Relative valuation benchmarking AVGO against industry peers.
-* **Sensitivity & Scenario Analysis:** Stress-testing valuation outcomes against changes in WACC and growth rates.
- * **Equity Research Report Also Available**
+* **Capital Structure:** 
+* **Financial Statements:** 
+* **DCF Model:** 
+* **Comparative Analysis (CCA):** 
+* **Sensitivity & Scenario Analysis:** 
+ * **Equity Research Report**
 ---
 ##  Python Scripts
 * **Data Automation** 
