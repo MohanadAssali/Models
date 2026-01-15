@@ -5,10 +5,10 @@ Comprehensive Financial Analysis of Broadcom Inc. (AVGO): Financial Modeling and
 ---
 ##  Content:
 
-* **Capital Structure:** 
-* **Financial Statements:** 
-* **DCF Model:** 
-* **Comparative Analysis (CCA):** 
-* **Sensitivity & Scenario Analysis:** 
+* **Capital Structure** 
+* **Financial Statements** 
+* **DCF Model** 
+* **Comparative Analysis (CCA)** 
+* **Sensitivity & Scenario Analysis** 
 * **Equity Research Report & Investment memo (Available upon request)**
 * **Python (Data Automation, Scraping, Visualizations)**   
