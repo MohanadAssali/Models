@@ -1,6 +1,7 @@
+Broadcom Inc. → AVGO
 
-Broadcom Inc. (AVGO)
+The Coca-Cola Company → KO
 
-The Coca-Cola Company (KO) 
+Tesla, Inc. → TSLA
 
 
