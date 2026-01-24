@@ -1,7 +1,11 @@
-Broadcom Inc. → AVGO
+### Note
+For the most accurate representation of my work, please focus on the most recent projects. Recent models incorporate more advanced structures, refined assumptions, and expanded rule sets.
 
-The Coca-Cola Company → KO
+---
 
+(Organized by Recency)
 
+- **The Coca-Cola Company → KO** 
+- **Broadcom Inc. → AVGO** 
 
 
