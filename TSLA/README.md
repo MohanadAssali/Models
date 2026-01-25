@@ -1,6 +1,6 @@
 ### Key Improvements from previous models
 - **Sum-of-the-parts Analysis**
- **New Financial Ratios and model assumptions table** 
+- **New Financial Ratios and model assumptions table** 
 - **Over 10 Historical Quarters and 5 Year Projections** 
 - **WAAC Calculation** 
 - **Monte Carlo Simulation of DCF model**
