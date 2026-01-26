@@ -4,7 +4,4 @@
 - **Over 10 Historical Quarters and 5 Year Projections** 
 - **WAAC Calculation**
 
-Currently working on:
-- **Monte Carlo Simulation of the DCF model**
-- **Complete professional Comps analysis**
 
