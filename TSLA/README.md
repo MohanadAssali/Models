@@ -1,7 +1,12 @@
 ### Key Improvements from previous models
+Financial Statements
 - **Sum-of-the-parts Analysis**
 - **New Financial Ratios and model assumptions table** 
-- **Over 10 Historical Quarters and 5 Year Projections** 
+- **Over 10 Historical Quarters and 5 Year Projections**
+
+DCF Model
 - **WAAC Calculation**
 
+Comps Analysis
+- **Input/Output Professional Presentation**
 
