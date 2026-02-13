@@ -4,7 +4,7 @@
 - **Improved DCF Model + WAAC Calculation**
 
 
-# Tesla (TSLA) - IN PROGRESS
+# Tesla (TSLA)
 ### Content:
 * **Financial Statements** 
 * **DCF Model** 
