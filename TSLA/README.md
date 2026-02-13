@@ -5,3 +5,8 @@
 
 
 # Tesla (TSLA) - IN PROGRESS
+### Content:
+* **Financial Statements** 
+* **DCF Model** 
+* **Comparative Analysis (CCA)** 
+* **Python (Data Automation, Scraping, Visualizations)**
