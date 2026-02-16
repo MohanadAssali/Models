@@ -10,6 +10,7 @@ For the most accurate representation of my work, please focus on the most recent
 - **Tesla Inc. → TSLA**
 - **Nordstrom (Acq. by Liverpool) → JWN_LBO** 
 - **The Coca-Cola Company → KO** 
-- **Broadcom Inc. → AVGO** 
+- **Broadcom Inc. → AVGO**
+- **Othertopics → Fixed income analysis, Monte carlo simulation** 
 
 
