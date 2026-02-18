@@ -13,6 +13,6 @@ For the most accurate representation of my work, please focus on the most recent
 - **Broadcom Inc. → AVGO**
 
 Other Models
-- **Othertopics → Fixed income analysis, Monte carlo simulation, Black-Scholes Model, GARCH Model** 
+- **Othertopics → CAPM, Fixed income analysis, Monte carlo simulation, Black-Scholes Model, GARCH Model** 
 
 
