@@ -11,12 +11,12 @@ For the most accurate representation of my work, please focus on the most recent
 - **Nordstrom (Acq. by Liverpool) → JWN_LBO** 
 - **The Coca-Cola Company → KO** 
 - **Broadcom Inc. → AVGO**
-
+---
 Other Topics/Models:
 
 - **FAMA French 3 Factor Model**
 - **Black-Scholes Model**
 - **GARCH Model** 
 - **CAPM** 
-- **Monte carlo simulatio**
+- **Monte Carlo simulatio**
 - **Fixed income analysis**
