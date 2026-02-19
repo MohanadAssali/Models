@@ -13,12 +13,10 @@ For the most accurate representation of my work, please focus on the most recent
 - **Broadcom Inc. → AVGO**
 
 Other Topics/Models:
-- **Othertopics →
-FAMA French 3 Factor Model
-Black-Scholes Model
-GARCH Model
-CAPM 
-Fixed income analysis 
-Monte carlo simulation** 
 
-
+- **FAMA French 3 Factor Model**
+- **Black-Scholes Model**
+- **GARCH Model** 
+- **CAPM** 
+- **Monte carlo simulatio**
+- **Fixed income analysis**
