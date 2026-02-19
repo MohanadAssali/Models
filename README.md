@@ -18,5 +18,5 @@ Other Topics/Models:
 - **Black-Scholes Model**
 - **GARCH Model** 
 - **CAPM** 
-- **Monte Carlo simulatio**
+- **Monte Carlo simulation**
 - **Fixed income analysis**
