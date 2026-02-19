@@ -12,7 +12,13 @@ For the most accurate representation of my work, please focus on the most recent
 - **The Coca-Cola Company → KO** 
 - **Broadcom Inc. → AVGO**
 
-Other Models
-- **Othertopics → CAPM, Fixed income analysis, Monte carlo simulation, Black-Scholes Model, GARCH Model** 
+Other Topics/Models:
+- **Othertopics →
+FAMA French 3 Factor Model
+Black-Scholes Model
+GARCH Model
+CAPM 
+Fixed income analysis 
+Monte carlo simulation** 
 
 
