@@ -1,5 +1,5 @@
 ### Key Improvements from previous models
-- **Professional Comps Analysis (Inputs/Outputs)**
+- **Improved Comps Analysis (Inputs/Outputs)**
 
 # CocoCola (KO)
 
