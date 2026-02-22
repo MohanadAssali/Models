@@ -1,7 +1,7 @@
 ### Key Improvements from previous models
 - **Professional Comps Analysis (Inputs/Outputs)**
 
-# CocoCola (KO) - IN PROGRESS
+# CocoCola (KO)
 
 ### Content:
 * **Financial Statements** 
