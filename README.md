@@ -14,9 +14,9 @@ For the most accurate representation of my work, please focus on the most recent
 ---
 Other Topics/Models:
 
+- **Monte Carlo simulation**
+- **CAPM** 
 - **FAMA French 3 Factor Model**
 - **Black-Scholes Model**
 - **GARCH Model** 
-- **CAPM** 
-- **Monte Carlo simulation**
 - **Fixed income analysis**
