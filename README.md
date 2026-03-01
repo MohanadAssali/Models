@@ -5,7 +5,8 @@ For the most accurate representation of my work, please focus on the most recent
 
 (Organized by recency — most recent work at the top)
 
-- **Endeavor (Acq. by Silver Lake) → EDR_LBO (In Progress)**
+- **JPMorgan Chase & Co.  → JPM (In Progress)**
+- **Endeavor (Acq. by Silver Lake) → EDR_LBO**
 - **Meta Platforms, Inc. → META**
 - **Tesla Inc. → TSLA**
 - **Nordstrom (Acq. by Liverpool) → JWN_LBO** 
