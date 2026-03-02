@@ -19,7 +19,7 @@ Other Topics/Models:
 
 - **Cox-Ross-Rubinstein Model (CRR)**
 - **Monte Carlo Simulation**:
-1. Stock Price DCF Monte Carlo Simulation
+1. Stock Price DCF 
 2. Geopolitical Risk Model (USOIL)
 - **CAPM** 
 - **FAMA French 3 Factor Model**
