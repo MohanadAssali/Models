@@ -17,7 +17,10 @@ For the most accurate representation of my work, please focus on the most recent
 
 Other Topics/Models:
 
-- **Monte Carlo simulation**
+- **Cox-Ross-Rubinstein Model (CRR)**
+- **Monte Carlo Simulation**:
+1. Stock Price DCF Monte Carlo Simulation
+2. Geopolitical Risk Model (USOIL)
 - **CAPM** 
 - **FAMA French 3 Factor Model**
 - **Black-Scholes Model**
