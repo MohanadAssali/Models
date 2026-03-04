@@ -21,7 +21,7 @@ Other Topics/Models:
 - **Cox-Ross-Rubinstein Model (CRR)**
 - **Monte Carlo Simulation**:
 1. Stock Price DCF 
-2. Geopolitical Risk Model (USOIL)
+2. Geopolitical Risk Model (USOIL - Strait of Hormuz Closure Event)
 - **CAPM** 
 - **FAMA French 3 Factor Model**
 - **Black-Scholes Model**
