@@ -17,6 +17,7 @@ For the most accurate representation of my work, please focus on the most recent
 
 Other Topics/Models:
 
+- **Implied volatility surface (IV)**
 - **Cox-Ross-Rubinstein Model (CRR)**
 - **Monte Carlo Simulation**:
 1. Stock Price DCF 
