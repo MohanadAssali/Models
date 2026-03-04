@@ -16,7 +16,7 @@ For the most accurate representation of my work, please focus on the most recent
 ---
 
 Other Topics/Models:
-
+- **Nelson-Siegel-Svensson (NSS) model (In Progress)**
 - **Implied volatility surface (IV)**
 - **Cox-Ross-Rubinstein Model (CRR)**
 - **Monte Carlo Simulation**:
