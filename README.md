@@ -6,7 +6,7 @@ For the most accurate representation of my work, please focus on the most recent
 (Organized by recency — most recent work at the top)
 
 Equity Research/Acquisitions:
-- **JPMorgan Chase & Co.  → JPM (In Progress)**
+- **JPMorgan Chase & Co.  → JPM ----- (In Progress)**
 - **Endeavor (Acq. by Silver Lake) → EDR_LBO**
 - **Meta Platforms, Inc. → META**
 - **Tesla Inc. → TSLA**
@@ -17,7 +17,7 @@ Equity Research/Acquisitions:
 ---
 
 Other Topics/Models:
-- **Nelson-Siegel-Svensson (NSS) model (In Progress)**
+- **Nelson-Siegel-Svensson model (NNS) ----- (In Progress)**
 - **Implied volatility surface (IV)**
 - **Cox-Ross-Rubinstein Model (CRR)**
 - **Monte Carlo Simulation**:
