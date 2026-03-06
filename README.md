@@ -18,7 +18,7 @@ Equity Research/Acquisitions:
 
 Other Topics/Models:
 
-- **Nelson-Siegel-Svensson model (NNS) ----- (In Progress)**
+- **Nelson-Siegel-Svensson model (NSS) ----- (In Progress)**
 - **Implied volatility surface (IV)**
 - **Cox-Ross-Rubinstein Model (CRR)**
 - **Monte Carlo Simulation**:
