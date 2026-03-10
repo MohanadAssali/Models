@@ -17,7 +17,7 @@ Equity Research/Acquisitions:
 ---
 
 Other Topics/Models:
-- **Black-Litterman Model --- In Progress**
+- **Black-Litterman Model --- (In Progress)**
 - **Nelson-Siegel-Svensson model (NSS)**
 - **Implied volatility surface (IV)**
 - **Cox-Ross-Rubinstein Model (CRR)**
