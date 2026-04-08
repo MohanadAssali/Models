@@ -4,6 +4,7 @@ For the most accurate representation of my work, please focus on the most recent
 In Progress:
 - **JPMorgan Chase & Co.  → JPM ----- (Equity Research)**
 - **Black-Litterman Model --- (Other Topics/Models)**
+- **Heston Model**
 
   ---
 
