@@ -1,11 +1,6 @@
 ### Note
 For the most accurate representation of my work, please focus on the most recent projects. Recent models incorporate more advanced structures, refined assumptions, and expanded rule sets.
 
-In Progress:
-- **JPMorgan Chase & Co.  → JPM ----- (Equity Research)**
-- **Black-Litterman Model --- (Other Topics/Models)**
-- **Heston Model --- (Other Topics/Models)**
-
   ---
 
 (Organized by recency — most recent work at the top)
@@ -34,3 +29,11 @@ Other Topics/Models:
 - **Black-Scholes Model**
 - **GARCH Model** 
 - **Fixed income analysis**
+
+
+
+Queued projects:
+- **JPMorgan Chase & Co.  → JPM ----- (Equity Research)**
+- **Black-Litterman Model --- (Other Topics/Models)**
+- **Heston Model --- (Other Topics/Models)**
+
