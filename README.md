@@ -1,9 +1,11 @@
 ### Note
 For the most accurate representation of my work, please focus on the most recent projects. Recent models incorporate more advanced structures, refined assumptions, and expanded rule sets.
 
-  ---
+
 
 (Organized by recency — most recent work at the top)
+
+  ---
 
 Equity Research/Acquisitions:
 
@@ -30,7 +32,7 @@ Other Topics/Models:
 - **GARCH Model** 
 - **Fixed income analysis**
 
-
+  ---
 
 Queued projects:
 - **JPMorgan Chase & Co.  → JPM ----- (Equity Research)**
